@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Do Thanh Nhan</h1>
 <h3 align="center">A passionate frontend developer from Rainscales</h3>
 
-- 🔭 I’m currently working on [MagicEyes - Building a real-time image recognition system](MagicEyes Project)
-
+- 🔭 I’m currently working on [MagicEyes - Building a real-time image recognition system]
 - 🌱 I’m currently learning **Kafka, Websockets, and Celery for background processing.**
 
-- 👯 I’m looking to collaborate on [Crowd (VAC) - Collaborating on enhancing user interaction in a large-scale platform.](Crowd Project)
+- 👯 I’m looking to collaborate on [Crowd (VAC) - Collaborating on enhancing user interaction in a large-scale platform.]
 
-- 🤝 I’m looking for help with [Next.js PWA Optimization - Looking for help with advanced caching strategies and improving offline support.](Next.js PWA Project)
+- 🤝 I’m looking for help with [Next.js PWA Optimization - Looking for help with advanced caching strategies and improving offline support.]
 
-- 👨‍💻 All of my projects are available at [My Portfolio](My Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio]
 
-- 📝 I regularly write articles on [My Tech Blog](My Tech Blog)
+- 📝 I regularly write articles on [My Tech Blog]
 
 - 💬 Ask me about **React, Vue, GSAP, Next.js PWA, Firebase Cloud Messaging.**
 
 - 📫 How to reach me **TNhan.ITTechnology@gmail.com**
 
-- 📄 Know about my experiences [My Resume](My Resume)
+- 📄 Know about my experiences [My Resume]
 
 - ⚡ Fun fact **I can solve a Rubik's cube in under a minute!**
 
